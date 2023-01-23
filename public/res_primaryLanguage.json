@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Eva Smith. UX Full Stack Software Developer :) I'm working with newest front-end frameworks like Angular, React and Vue. I am also an educator, artist, and former youth leader who can be found coding, discussing code with my husband and daughters, and drinking Kumbucha. 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Holiday Helpers",
+        "startDate": "2022",
+        "description": "A website placing members of our community in need with members of our community with resources.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -81,38 +81,38 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
+        "company": "Williamsburg High School",
+        "title": "Teaching Associate",
+        "years": "10.2022 - present",
+        // "mainTech": [
+        //   "Angular 8/9/10"
+        // ],
+        // "technologies": [
+        //   "REST API",
+        //   "RxJS",
+        //   "JavaScript",
+        //   "Bootstrap",
+        //   "MDBootstrap",
+        //   "EF Core",
+        //   ".NET Core",
+        //   "SignalR",
+        //   "Angular Material"
+        // ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "company": "Smithsonia Academy",
+        "title": "Educator",
+        "years": "2015-2021",
+        // "mainTech": [
+        //   "Angular 7/8"
+        // ],
+        // "technologies": [
+        //   "RxJS",
+        //   "Django",
+        //   "PHP",
+        //   "JavaScript",
+        //   "DHTMLX Gantt"
+        // ]
       }
     ]
   }
